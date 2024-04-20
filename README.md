@@ -1,21 +1,23 @@
-# Hi there, I'm Sergei 👋
+# Привет, меня зовут Сергей! 👋
 
-## About Me
+## Обо мне
 
-- 🎓 I'm a second-year student studying "Software Engineering" at ITMO University.
-- 🌱 My main focus now is on learning and developing programming skills.
-- 🤝 I'm open to collaboration and networking with like-minded individuals.
-- 👀 Looking for internship.
+- 🎓 Я студент 2 курса бакалавриата по направлению "Разработка ПО / Software Engineering" в ИТМО.
+- 🌱 Мой основной фокус - изучение и развитие навыков в программировании.
+- 🤝 Я открыт для общения и сотрудничества с единомышленниками.
+- 👀 Ищу стажировку.
 
-## How to Reach Me
+## Как связаться со мной
 
-- 📱 Connect with me on Telegram: [@pochtineploho](https://t.me/pochtineploho)
-- 📧 Check out my VK: [@pochtineploho](https://vk.com/pochtineploho)
+- 📱 Мой Telegram: [@pochtineploho](https://t.me/pochtineploho)
+- 📧 Мой VK: [@pochtineploho](https://vk.com/pochtineploho)
 
-## My Skills
+## Мои навыки
 
 - 💻 C++, C#, Java
-- 🌐 Fluent in English
-- 💼 Soft skills
+- 🌐 C1 English
 
-Feel free to reach out if you have any questions or collaboration opportunities. I'm always up for a chat and sharing experiences!
+## Мои интересы
+
+- 🎸 Активно учусь играть на гитаре.
+- 🎮 Время от времени играю в видеоигры.
