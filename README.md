@@ -22,4 +22,3 @@
 
 - 📱 Мой Telegram: [@pochtineploho](https://t.me/pochtineploho)
 - 👾 Мой VK: [@pochtineploho](https://vk.com/pochtineploho)
-- 📧 Почта: pochtineploho@yandex.ru
