@@ -1,24 +1,19 @@
-# Привет, меня зовут Сергей! 👋
+# Сергей Бородавко
+
+Backend developer на .NET.
+
+Работаю в СКБ Контур, занимаюсь разработкой backend-сервисов на C# / .NET.
 
 ## Обо мне
 
-- 🎓 Бакалавр в области разработки ПО
-- 😎 Окончил школу бэкенд разработки Яндекса
-- 🤯 .NET-разработчик в [СКБ Контур](https://kontur.ru/)
+* 🎓 Бакалавр по направлению «Разработка ПО»
+* 💻 2+ года коммерческой разработки на .NET
+* 🏫 Выпускник школы backend-разработки Яндекса
+* 🌐 English — C1
+* 🤓 Хочу погрузиться в Golang
 
-## Мои навыки
+## Контакты
 
-- 💻 .NET, Java, C++
-- 🌐 C1 English
-
-## Мои проекты
-
-- [Лабораторные на Java](https://github.com/pochtineploho/Java-labs)
-- [Лабораторные на C#](https://github.com/pochtineploho/C-sharp-labs)
-- [Лабораторные на C++](https://github.com/pochtineploho/Cpp-some-labs)
-
-## Как связаться со мной
-
-- 📱 Мой Telegram: [@pochtineploho](https://t.me/pochtineploho)
-- 👾 Мой VK: [@pochtineploho](https://vk.com/pochtineploho)
-- 📫 Моя почта: pochtineploho@gmail.com
+* Telegram: [@pochtineploho](https://t.me/pochtineploho)
+* VK: [@pochtineploho](https://vk.com/pochtineploho)
+* Email: [pochtineploho@gmail.com](mailto:pochtineploho@gmail.com)
